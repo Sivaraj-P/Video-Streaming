@@ -8,7 +8,10 @@ To Run the test cases
 
   - python manage.py test
 
+admin credentials
+  - admin@gmail.com
+  - admin
 
 To create super user
-
+  
   - python manage.py createsuperuser
