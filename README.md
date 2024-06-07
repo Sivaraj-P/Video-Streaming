@@ -6,3 +6,8 @@ To run the application
 To Run the test cases
 
   - python manage.py test
+
+
+To create super user
+
+  - python manage.py createsuperuser
